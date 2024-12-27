@@ -32,7 +32,7 @@ http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="" tvg-name="Knowledge Channel" tvg-logo="https://i.imgur.com/agp7T5R.png" group-title="", Knowledge Channel
+#EXTINF:-1 tvg-id="" tvg-name="Knowledge Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Knowledge_Channel_logo.png" group-title="", Knowledge Channel
 http://143.44.136.110:6910/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -49,3 +49,16 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 #EXTINF:-1 tvg-id="" tvg-name="PBA RUSH" tvg-logo="https://i.imgur.com/A31z7vc.png" group-title="", PBA RUSH
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Heart of Asia" tvg-logo="https://i.imgur.com/130XTVA.png" group-title="",Heart of Asia
+https://restreamer.ganbaruby23.box.ca/ed898c15-fe00-4245-b9b7-eb8da19f6b61.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="I Heart Movies" tvg-logo="https://i.imgur.com/fJOqD2b.png" group-title="",I Heart Movies
+https://restreamer.ganbaruby23.box.ca/cb86b372-ebea-45a7-adb0-b39ffec6467b.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="A2Z" tvg-logo="https://i.imgur.com/SsDMkMm.png" group-title="", A2Z
+http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
