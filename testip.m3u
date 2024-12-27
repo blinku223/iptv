@@ -32,7 +32,7 @@ http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="" tvg-name="Knowledge Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Knowledge_Channel_logo.png" group-title="", Knowledge Channel
+#EXTINF:-1 tvg-id="" tvg-name="Knowledge Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Knowledge-Channel.png/revision/latest?cb=20211116165045g" group-title="", Knowledge Channel
 http://143.44.136.110:6910/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
