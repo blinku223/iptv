@@ -78,3 +78,6 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="", tvN
 https://dice-live-ap.akamaized.net/hls/live/2001887/274550-280784/exchange274550dbvoh_274550_3000/chunklist.m3u8?hdntl=exp=1735469250~acl=%2f*~id=d4e43126-2ae1-4cd8-9fe4-258c4ba7365b~data=hdntl,dWlkPUJrUjNNa3xmY2UwMTQ3OS05NTljLTQxYzUtOTgzMy05OWJhNTlmODIxMWUmaXA9MjAwMTo0NDUxOmI4NzpjMzAwOjVkMmM6MTE5ZToyNjJiOjY2ZWUmZXhwPTE3MzU0NjkyNjEmZWlkPTI3NDU1MCZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjUmdHlwZT1MSVZF~hmac=fbf7d089fbea9688b801a78182ccf6b6dbfbd9ec22c870826d0656b00e9a587c
+
+#EXTINF:-1 tvg-id="" tvg-name="tvN Movies Pinoy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/TvN_Movies_Pinoy_2023_Logo.svg/revision/latest?cb=20240618091604" group-title="", tvN Movies Pinoy
+https://dice-live-ap.akamaized.net/hls/live/2001939/274551-283041/exchange274551tospn_274551_3000/chunklist.m3u8?hdntl=exp=1735467922~acl=%2f*~id=b5a98537-dc8b-41cd-b41a-6060e7fec2a7~data=hdntl,dWlkPUJrUjNNa3xmY2UwMTQ3OS05NTljLTQxYzUtOTgzMy05OWJhNTlmODIxMWUmaXA9MjAwMTo0NDUxOmI4NzpjMzAwOjVkMmM6MTE5ZToyNjJiOjY2ZWUmZXhwPTE3MzU0Njc5NDcmZWlkPTI3NDU1MSZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjUmdHlwZT1MSVZF~hmac=2e131005f50d11c03c9d9e6c538ded34b9d7e036c526d080d93149b60c76da07
