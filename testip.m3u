@@ -75,3 +75,6 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Teleradyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/375px-TeleRadyo_Serbisyo_logo.svg.png" group-title="",Teleradyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="tvN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/375px-Logo_tvN.svg.png" group-title="", tvN
+https://dice-live-ap.akamaized.net/hls/live/2001887/274550-280784/exchange274550dbvoh_274550_3000/chunklist.m3u8?hdntl=exp=1735469250~acl=%2f*~id=d4e43126-2ae1-4cd8-9fe4-258c4ba7365b~data=hdntl,dWlkPUJrUjNNa3xmY2UwMTQ3OS05NTljLTQxYzUtOTgzMy05OWJhNTlmODIxMWUmaXA9MjAwMTo0NDUxOmI4NzpjMzAwOjVkMmM6MTE5ZToyNjJiOjY2ZWUmZXhwPTE3MzU0NjkyNjEmZWlkPTI3NDU1MCZjaWQ9ZGNlLnRhcGdvJm9pZD0zMjUmdHlwZT1MSVZF~hmac=fbf7d089fbea9688b801a78182ccf6b6dbfbd9ec22c870826d0656b00e9a587c
