@@ -106,17 +106,17 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
-#EXTINF:-1 tvg-id="onenews2" tvg-name="ONE NEWS (CIG)" tvg-logo="https://i.imgur.com/r2VHgF7.png" group-title="ğŸ‡µğŸ‡­ CIGNAL LOCAL",ONE NEWS (CIG)
+#EXTINF:-1 tvg-id="" tvg-name="ONE News" tvg-logo="https://i.imgur.com/r2VHgF7.png" group-title="",ONE News
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="cinemoph" tvg-name="CINEMO PHIL." tvg-logo="https://i.imgur.com/Pf8CNau.png" group-title="ğŸ‡µğŸ‡­ CONV-CIG MOVIES",CINEMO PHIL.
+#EXTINF:-1 tvg-id="" tvg-name="Cinemo" tvg-logo="https://i.imgur.com/Pf8CNau.png" group-title="", Cinemo
 http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="cinemaoneph" tvg-name="CINEMAONE PHIL." tvg-logo="https://i.imgur.com/tvXWfNI.png" group-title="ğŸ‡µğŸ‡­ CONV-CIG MOVIES",CINEMAONE PHIL.
+#EXTINF:-1 tvg-id="" tvg-name="Cinema One" tvg-logo="https://i.imgur.com/tvXWfNI.png" group-title="", Cinema One
 http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
