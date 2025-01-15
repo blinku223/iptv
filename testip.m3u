@@ -228,16 +228,6 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="https://i.imgur.com/wGpxvlK.png" group-title="",HITS
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
-#EXTINF:-1 tvg-id="" tvg-name="HITS NOW" tvg-logo="https://i.imgur.com/eSj0BPl.png" group-title="",HITS NOW
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
-#EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="https://i.imgur.com/dWRtfl9.png" group-title="",HITS MOVIES
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://i.imgur.com/AMxls9W.png" group-title="",Thrill
