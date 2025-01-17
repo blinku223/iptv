@@ -183,10 +183,8 @@ http://143.44.136.110:6910/001/2/ch00000090990000001149/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="" tvg-name="Tap Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TapTV-ph.png/190px-TapTV-ph.png" group-title="Entertainment",Tap Edge
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 #EXTINF:-1 tvg-id="" tvg-name="tvN Movies Pinoy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/TvN_Movies_Pinoy_2023_Logo.svg/revision/latest/scale-to-width-down/1000?cb=20240618091604" group-title="Movies",tvN Movies Pinoy
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+https://kaotv.ganbaruby23.xyz/tvnmoviespinoy.php
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
