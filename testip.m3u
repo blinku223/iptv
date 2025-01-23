@@ -11,6 +11,16 @@ http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDoma
 http://143.44.136.110:6910/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+#EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC Asia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tfc-us.png?raw=true" group-title="Local",TFC Asia
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-name="Kapamilya Channel (TFC)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/kapamilya-channel-ph.png?raw=true" group-title="Local",Kapamilya Channel (TFC)
+https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 #EXTINF:-1 tvg-id="TV5.ph" tvg-name="TV5 HD" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest/scale-to-width-down/290?cb=20230410113026" group-title="Local", TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
