@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="AXN" group-title="Entertainment" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png" ch-number="701",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce  
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ROCK Entertainment
 #KODIPROP:inputstreamaddon=inputstream.adaptive
