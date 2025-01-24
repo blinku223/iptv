@@ -242,7 +242,9 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 http://143.44.136.110:6910/001/2/ch00000090990000001253/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-name="AXN" group-title="Entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/axn-hk.png?raw=true",AXN
-http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce  
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 
 #EXTINF:-1 tvg-name="Rock Entertainment" group-title="Entertainment" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-asia/rock-entertainment-asi.png?raw=true",Rock Entertainment
 https://cdn10jtedge.indihometv.com/atm/hlsv3/rock_entertainment/playlist.m3u8
